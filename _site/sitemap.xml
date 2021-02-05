@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://sonsazang.github.io/2013/12/31/whats-jekyll/</loc>
+<lastmod>2013-12-31T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://sonsazang.github.io/2014/01/01/example-content/</loc>
+<lastmod>2014-01-01T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://sonsazang.github.io/2014/01/02/introducing-lanyon/</loc>
+<lastmod>2014-01-02T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://sonsazang.github.io/blog/Study/</loc>
+</url>
+<url>
 <loc>http://sonsazang.github.io/about/</loc>
-</url>
-<url>
-<loc>http://sonsazang.github.io/blog/categories/</loc>
-</url>
-<url>
-<loc>http://sonsazang.github.io/</loc>
 </url>
 <url>
 <loc>http://sonsazang.github.io/blog/</loc>
 </url>
 <url>
-<loc>http://sonsazang.github.io/blog/tags/</loc>
+<loc>http://sonsazang.github.io/</loc>
 </url>
 </urlset>
