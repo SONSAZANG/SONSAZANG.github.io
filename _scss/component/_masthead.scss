@@ -36,11 +36,12 @@
     }
   }
   .masthead-logo {
-    height: 30px;
-    width: auto;
-    vertical-align: text-bottom;
-    display: inline;
+    height: auto;
+    width: 232px;
+    vertical-align: top;
+    display: inline-block;
     padding: 0;
-    margin: 0;
+    margin-top: -30px;
+    margin-bottom: -40px;
   }
 }
