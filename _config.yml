@@ -1,8 +1,8 @@
 # Site Info
 title: SONSAZANG
 tagline: '아직 잘 모르는 개발자'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
-baseurl: ""
+description: '손사장이 되고 싶은 청년 개발자의 이야기'
+baseurl: ''
 url: http://SONSAZANG.github.io
 logo: '/public/logo.png'
 
@@ -30,15 +30,18 @@ author:
     github:    https://github.com/SONSAZANG/SONSAZANG.github.io
     # facebook:  <hide>
     # twitter:   <hide>
-    email: kekekee257@gmail.com 
+    email: mailto:kekekee257@gmail.com 
 # Navigation (2nd level links supported)
 nav:
   Home:           
     - '/'
   Blog:           
     - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+    # - { Categories: '/blog/categories/#Github_Pages' }
+    # - { Tags: '/blog/tags/#Git' }
+    - { Github Pages: '/blog/categories/#Github_Pages'}
+    - { Git: '/blog/categories/#Git'}
+
   About:          
     - '/about/'
   Github Project: 
