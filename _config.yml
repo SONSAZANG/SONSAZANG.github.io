@@ -1,9 +1,9 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
+title: SONSAZANG
+tagline: '아직 잘 모르는 개발자'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: "/lanyon"
-url: http://codinfox.github.io
+url: http://SONSAZANG.github.io
 logo: '/public/logo.png'
 
 # Site configurations

@@ -1,1 +1,1 @@
-Sitemap: http://codinfox.github.io/lanyon/sitemap.xml
+Sitemap: http://sonsazang.github.io/lanyon/sitemap.xml
