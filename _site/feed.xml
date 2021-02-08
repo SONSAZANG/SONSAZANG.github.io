@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://sonsazang.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://sonsazang.github.io/" rel="alternate" type="text/html" /><updated>2021-02-06T23:55:34+09:00</updated><id>http://sonsazang.github.io/feed.xml</id><title type="html">SONSAZANG</title><subtitle>손사장이 되고 싶은 청년 개발자의 이야기</subtitle><author><name>Sonsazang</name></author><entry><title type="html">2021-02-06</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/06/M1/" rel="alternate" type="text/html" title="2021-02-06" /><published>2021-02-06T00:00:00+09:00</published><updated>2021-02-06T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/06/M1</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/06/M1/">&lt;p&gt;M1 -&amp;gt; 다시 Jekyll 환경 구축 완료!
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://sonsazang.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://sonsazang.github.io/" rel="alternate" type="text/html" /><updated>2021-02-08T16:34:38+09:00</updated><id>http://sonsazang.github.io/feed.xml</id><title type="html">SONSAZANG</title><subtitle>손사장이 되고 싶은 청년 개발자의 이야기</subtitle><author><name>Sonsazang</name></author><entry><title type="html">2021-02-07</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/07/ADB/" rel="alternate" type="text/html" title="2021-02-07" /><published>2021-02-07T00:00:00+09:00</published><updated>2021-02-07T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/07/ADB</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/07/ADB/">&lt;p&gt;프로젝트 문유 -&amp;gt; Firebase 연결 시 key 필요! - 진행중&lt;br /&gt;
+debug.keystore -&amp;gt; 안드로이드 환경변수 설정 - 해결&lt;br /&gt; 
+Adb 셋팅 -&amp;gt; Android Debug Bridge 셋팅 완료 - 해결&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;문유-db-연동&quot;&gt;문유 DB 연동&lt;/h3&gt;
+
+&lt;p&gt;Firebase 연결 시 key 필요 -&amp;gt; &lt;a href=&quot;https://m.blog.naver.com/wndrlf2003/220649843082&quot;&gt;링크&lt;/a&gt; &lt;br /&gt;
+debug.keystore -&amp;gt; 안드로이드 환경변수 설정 필요 -&amp;gt; &lt;a href=&quot;https://snowdeer.github.io/android/2017/03/29/mac-path-config-for-android-sdk/&quot;&gt;링크&lt;/a&gt; &lt;br /&gt;
+the -keyalg option must be specified 오류 -&amp;gt; jdk 말고 jre 에서 실행 위 블로그 참고 &lt;br /&gt;
+java.io.FileNotFoundException 오류 -&amp;gt; 명령어 앞에 sudo 사용 (관리자 권한) &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Build 시 오류 &lt;br /&gt;
+Failed to install the following Android SDK packages as some licences have not been accepted &lt;br /&gt;
+환경변수 설정 후 -&amp;gt; &lt;a href=&quot;https://stackoverflow.com/questions/54273412/failed-to-install-the-following-android-sdk-packages-as-some-licences-have-not&quot;&gt;링크&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;adb셋팅&quot;&gt;ADB셋팅&lt;/h3&gt;
+
+&lt;p&gt;ADB -&amp;gt; android debug bridge -&amp;gt; &lt;a href=&quot;https://developer88.tistory.com/174&quot;&gt;링크&lt;/a&gt; &lt;br /&gt;
+License for package Android SDK Build-Tools 30.0.2 not accepted &lt;br /&gt;
+-&amp;gt; 안드로이드 환경변수 설정 필요 -&amp;gt; 환경변수 설정 후 sdk Manager -&amp;gt; SDK Tools -&amp;gt; Android SDK Command-line Tools (latest) 설치 - 해결&lt;/p&gt;
+
+&lt;h3 id=&quot;git&quot;&gt;git&lt;/h3&gt;
+&lt;p&gt;git 셋팅 완료 -&amp;gt; &lt;a href=&quot;https://github.com/SONSAZANG/moonyou.git&quot;&gt;링크&lt;/a&gt;&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="Android" /><category term="Android Studio" /><category term="ADB" /><category term="Firebase" /><category term="key" /><summary type="html">프로젝트 문유 -&amp;gt; Firebase 연결 시 key 필요! - 진행중 debug.keystore -&amp;gt; 안드로이드 환경변수 설정 - 해결 Adb 셋팅 -&amp;gt; Android Debug Bridge 셋팅 완료 - 해결 문유 DB 연동 Firebase 연결 시 key 필요 -&amp;gt; 링크 debug.keystore -&amp;gt; 안드로이드 환경변수 설정 필요 -&amp;gt; 링크 the -keyalg option must be specified 오류 -&amp;gt; jdk 말고 jre 에서 실행 위 블로그 참고 java.io.FileNotFoundException 오류 -&amp;gt; 명령어 앞에 sudo 사용 (관리자 권한) Build 시 오류 Failed to install the following Android SDK packages as some licences have not been accepted 환경변수 설정 후 -&amp;gt; 링크 ADB셋팅 ADB -&amp;gt; android debug bridge -&amp;gt; 링크 License for package Android SDK Build-Tools 30.0.2 not accepted -&amp;gt; 안드로이드 환경변수 설정 필요 -&amp;gt; 환경변수 설정 후 sdk Manager -&amp;gt; SDK Tools -&amp;gt; Android SDK Command-line Tools (latest) 설치 - 해결 git git 셋팅 완료 -&amp;gt; 링크</summary></entry><entry><title type="html">2021-02-06</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/06/M1/" rel="alternate" type="text/html" title="2021-02-06" /><published>2021-02-06T00:00:00+09:00</published><updated>2021-02-06T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/06/M1</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/06/M1/">&lt;p&gt;M1 -&amp;gt; 다시 Jekyll 환경 구축 완료!
 sonsazang.dothome.co.kr -&amp;gt; 닷홈 도메인 생성 완료!
 Google Search Console -&amp;gt; 구글 검색 셋팅 필요!&lt;/p&gt;
 
