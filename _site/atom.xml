@@ -4,7 +4,7 @@
  <title>SONSAZANG</title>
  <link href="http://SONSAZANG.github.io/atom.xml" rel="self"/>
  <link href="http://SONSAZANG.github.io/"/>
- <updated>2021-02-08T16:51:31+09:00</updated>
+ <updated>2021-02-17T17:33:05+09:00</updated>
  <id>http://SONSAZANG.github.io</id>
  <author>
    <name>Sonsazang</name>
@@ -69,6 +69,84 @@ Google Search Console -&amp;gt; 구글 검색 셋팅 필요!&lt;/p&gt;
 &lt;h3 id=&quot;sonsazanggithubio-첫-게시글-작성&quot;&gt;sonsazang.github.io 첫 게시글 작성&lt;/h3&gt;
 
 &lt;p&gt;20200203 -&amp;gt; 20200206 게시글 작성 시작&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2021-02-03</title>
+   <link href="http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/03/Webpacker;/"/>
+   <updated>2021-02-03T00:00:00+09:00</updated>
+   <id>http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/03/Webpacker;</id>
+   <content type="html">&lt;p&gt;Rails - 다양한 오류.. 
+github.io 개발블로그 다시 구성 - Lanyon 테마 사용&lt;/p&gt;
+
+&lt;h3 id=&quot;rails-error&quot;&gt;Rails ERROR&lt;/h3&gt;
+
+&lt;p&gt;You could try using –skip-broken to work around the problem -&amp;gt; 해결안됨 &lt;br /&gt;
+Nodejs 삭제 후 다시 시도 -&amp;gt; 성공 &lt;br /&gt;
+참고 링크&lt;br /&gt;
+&lt;a href=&quot;https://coding-ggangfe.tistory.com/39&quot;&gt;nodejs 최신 버전 설치&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://blog.daum.net/dosman1/2003&quot;&gt;npm, node 삭제&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://mainia.tistory.com/5637&quot;&gt;npm 설치&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;webpackermanifestmissingentryerror-in-articlesindex-오류&quot;&gt;Webpacker::Manifest::MissingEntryError in Articles#index 오류&lt;br /&gt;&lt;/h4&gt;
+&lt;p&gt;error Command “webpack” not found.&lt;br /&gt;
+-&amp;gt; yarn run test (https://classic.yarnpkg.com/en/docs/cli/run) &lt;br /&gt;
+-&amp;gt;command not found: babel&lt;br /&gt;
+@babel/plugin-transform-destructuring’ &lt;br /&gt;
+@babel/plugin-transform-runtime&lt;br /&gt;
+@babel/plugin-transform-regenerator&lt;br /&gt;
+@babel/preset-env’&lt;br /&gt;
+Bable 플러그인 오류 다수 &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;railswebpacker-from-configwebpackenvironmentjs-오류&quot;&gt;@rails/webpacker’ from ‘config/webpack/environment.js 오류&lt;br /&gt;&lt;/h4&gt;
+&lt;p&gt;-&amp;gt;webpack-cli Error BrowserslistError: 오류&lt;br /&gt;
+-&amp;gt;webpack 5.20.1 compiled successfully in 64 ms &lt;br /&gt;
+webpack 오류 해결 완료 &lt;br /&gt;
+webpack -w  &lt;a href=&quot;https://www.inflearn.com/questions/17158&quot;&gt;참고링크&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;warning-in-configuration---해결&quot;&gt;WARNING in configuration -&amp;gt; 해결&lt;/h4&gt;
+&lt;p&gt;The ‘mode’ option has not been set, webpack will fallback to ‘production’ for this value. Set ‘mode’ option to ‘development’ or ‘production’ to enable defaults for each environment.
+You can also set it to ‘none’ to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/&lt;/p&gt;
+
+&lt;p&gt;ERROR in main 
+Module not found: Error: Can’t resolve ‘./src’ in ‘/Users/son-eunsu/RubymineProjects/blog1’&lt;/p&gt;
+
+&lt;p&gt;실패&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2021-02-02</title>
+   <link href="http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/02/CentOS7/"/>
+   <updated>2021-02-02T00:00:00+09:00</updated>
+   <id>http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/02/CentOS7</id>
+   <content type="html">&lt;p&gt;OracleCloud CentOS7 서버 구성 완료&lt;br /&gt;
+CentOS7 -&amp;gt; Ruby, Ruby on Rails 구성 진행중&lt;br /&gt;
+Rubymine 학생 라이센스 완료&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;centos7&quot;&gt;CentOS7&lt;/h3&gt;
+
+&lt;p&gt;OracleCloud CentOS7 구성 완료&lt;br /&gt; 
+Firewall 방화벽 설정 완료&lt;br /&gt;
+Nignx 웹서버 설치 완료&lt;br /&gt;
+Mysql 설치 완료&lt;br /&gt;
+Postgresql 설치 완료 -&amp;gt; sonsazang&lt;br /&gt;
+nodeJs 설치 완료&lt;br /&gt;
+ImageMagick 설치 완료&lt;br /&gt;
+Git 업그레이드 완료&lt;br /&gt;
+Sendmail 설치 완료&lt;br /&gt;
+Ntp 아시아 서버 시간 동기화 완료&lt;br /&gt;
+Ruby 2.7.2 설치 완료&lt;br /&gt;
+Rails 6.1.1 설치 완료&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ruby-셋팅&quot;&gt;Ruby 셋팅&lt;/h3&gt;
+
+&lt;p&gt;Ruby 설치 
+CentOS7 -&amp;gt; apt-get 어려움 -&amp;gt; rbenv 이용 -&amp;gt; 완료&lt;br /&gt;
+centOS7 에서 루비,레일즈 설치 -&amp;gt; &lt;a href=&quot;https://jjeongil.tistory.com/1324&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;
+MacBook Air -&amp;gt; Rubymine 설치 완료&lt;br /&gt;
+Rubymine 학생 라이센스 완료 -&amp;gt; &lt;a href=&quot;https://www.jetbrains.com/ko-kr/community/education/&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 </content>
  </entry>
  
