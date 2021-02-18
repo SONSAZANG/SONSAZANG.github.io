@@ -11,7 +11,7 @@
 
   <title>
     
-      About &middot; SONSAZANG
+      2021-02-07 &middot; SONSAZANG
     
   </title>
 
@@ -154,7 +154,7 @@ MathJax.Hub.Config({ tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ], proces
       
 
       <span class="">
-        <a class="sidebar-nav-item active" href="/about/">
+        <a class="sidebar-nav-item " href="/about/">
           About
         </a>
 
@@ -211,39 +211,105 @@ MathJax.Hub.Config({ tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ], proces
       </div>
 
       <div class="container content">
-        <div class="page">
-  <h1 class="page-title">About</h1>
-  <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+        <div class="post">
+  <h1 class="post-title">2021-02-07</h1>
+  <span class="post-date">07 Feb 2021</span>
+  <a href="#disqus_thread"></a>
+   | 
+  
+    <a href="/blog/tags/#android" class="post-tag">Android</a>
+  
+    <a href="/blog/tags/#android-studio" class="post-tag">Android Studio</a>
+  
+    <a href="/blog/tags/#adb" class="post-tag">ADB</a>
+  
+    <a href="/blog/tags/#firebase" class="post-tag">Firebase</a>
+  
+    <a href="/blog/tags/#key" class="post-tag">key</a>
+  
+  
+  <article>
+    <p>프로젝트 문유 -&gt; Firebase 연결 시 key 필요! - 진행중<br />
+debug.keystore -&gt; 안드로이드 환경변수 설정 - 해결<br /> 
+Adb 셋팅 -&gt; Android Debug Bridge 셋팅 완료 - 해결<br /></p>
 
-<p>In the novel, <em>The Strange Case of Dr. Jeykll and Mr. Hyde</em>, Mr. Poole is Dr. Jekyll’s virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It’s made by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+<h3 id="문유-db-연동">문유 DB 연동</h3>
 
-<p>There are currently two themes built on Poole:</p>
+<p>Firebase 연결 시 key 필요 -&gt; <a href="https://m.blog.naver.com/wndrlf2003/220649843082">링크</a> <br />
+debug.keystore -&gt; 안드로이드 환경변수 설정 필요 -&gt; <a href="https://snowdeer.github.io/android/2017/03/29/mac-path-config-for-android-sdk/">링크</a> <br />
+the -keyalg option must be specified 오류 -&gt; jdk 말고 jre 에서 실행 위 블로그 참고 <br />
+java.io.FileNotFoundException 오류 -&gt; 명령어 앞에 sudo 사용 (관리자 권한) <br /></p>
 
-<ul>
-  <li><a href="http://hyde.getpoole.com">Hyde</a></li>
-  <li><a href="http://lanyon.getpoole.com">Lanyon</a></li>
-</ul>
+<p>Build 시 오류 <br />
+Failed to install the following Android SDK packages as some licences have not been accepted <br />
+환경변수 설정 후 -&gt; <a href="https://stackoverflow.com/questions/54273412/failed-to-install-the-following-android-sdk-packages-as-some-licences-have-not">링크</a></p>
 
-<p>Learn more and contribute on <a href="https://github.com/poole">GitHub</a>.</p>
+<h3 id="adb셋팅">ADB셋팅</h3>
 
-<h2 id="setup">Setup</h2>
+<p>ADB -&gt; android debug bridge -&gt; <a href="https://developer88.tistory.com/174">링크</a> <br />
+License for package Android SDK Build-Tools 30.0.2 not accepted <br />
+-&gt; 안드로이드 환경변수 설정 필요 -&gt; 환경변수 설정 후 sdk Manager -&gt; SDK Tools -&gt; Android SDK Command-line Tools (latest) 설치 - 해결</p>
 
-<p>Some fun facts about the setup of this project include:</p>
+<h3 id="git">git</h3>
+<p>git 셋팅 완료 -&gt; <a href="https://github.com/SONSAZANG/moonyou.git">링크</a></p>
 
-<ul>
-  <li>Built for <a href="http://jekyllrb.com">Jekyll</a></li>
-  <li>Developed on GitHub and hosted for free on <a href="https://pages.github.com">GitHub Pages</a></li>
-  <li>Coded with <a href="http://sublimetext.com">Sublime Text 2</a>, an amazing code editor</li>
-  <li>Designed and developed while listening to music like <a href="https://soundcloud.com/maddecent/sets/blood-bros-series">Blood Bros Trilogy</a></li>
-</ul>
 
-<p>Have questions or suggestions? Feel free to <a href="https://github.com/poole/issues/new">open an issue on GitHub</a> or <a href="https://twitter.com/mdo">ask me on Twitter</a>.</p>
-
-<p>Thanks for reading!</p>
-
+  </article>
 </div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/06/M1/">
+            2021-02-06
+            <small>06 Feb 2021</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/03/Webpacker;/">
+            2021-02-03
+            <small>03 Feb 2021</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/02/CentOS7/">
+            2021-02-02
+            <small>02 Feb 2021</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+
+<div class="comments">
+  <h2>Comments</h2>
+  <div id="disqus_thread"></div>
+  <script>
+var disqus_config = function () {
+  this.page.url = 'http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/07/ADB/'; // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = '/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/07/ADB'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() {
+  var d = document, s = d.createElement('script');
+  s.src = '//.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+})();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
+
 
       </div>
     </div>
