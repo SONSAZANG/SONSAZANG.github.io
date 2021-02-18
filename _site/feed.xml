@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://sonsazang.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://sonsazang.github.io/" rel="alternate" type="text/html" /><updated>2021-02-17T17:33:05+09:00</updated><id>http://sonsazang.github.io/feed.xml</id><title type="html">SONSAZANG</title><subtitle>손사장이 되고 싶은 청년 개발자의 이야기</subtitle><author><name>Sonsazang</name></author><entry><title type="html">2021-02-07</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/07/ADB/" rel="alternate" type="text/html" title="2021-02-07" /><published>2021-02-07T00:00:00+09:00</published><updated>2021-02-07T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/07/ADB</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/07/ADB/">&lt;p&gt;프로젝트 문유 -&amp;gt; Firebase 연결 시 key 필요! - 진행중&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://sonsazang.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://sonsazang.github.io/" rel="alternate" type="text/html" /><updated>2021-02-18T22:37:33+09:00</updated><id>http://sonsazang.github.io/feed.xml</id><title type="html">SONSAZANG</title><subtitle>손사장이 되고 싶은 청년 개발자의 이야기</subtitle><author><name>Sonsazang</name></author><entry><title type="html">2021-02-07</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/07/ADB/" rel="alternate" type="text/html" title="2021-02-07" /><published>2021-02-07T00:00:00+09:00</published><updated>2021-02-07T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/07/ADB</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/07/ADB/">&lt;p&gt;프로젝트 문유 -&amp;gt; Firebase 연결 시 key 필요! - 진행중&lt;br /&gt;
 debug.keystore -&amp;gt; 안드로이드 환경변수 설정 - 해결&lt;br /&gt; 
 Adb 셋팅 -&amp;gt; Android Debug Bridge 셋팅 완료 - 해결&lt;br /&gt;&lt;/p&gt;
 
@@ -39,7 +39,48 @@ Google Search Console -&amp;gt; 구글 검색 셋팅 필요!&lt;/p&gt;
 
 &lt;h3 id=&quot;sonsazanggithubio-첫-게시글-작성&quot;&gt;sonsazang.github.io 첫 게시글 작성&lt;/h3&gt;
 
-&lt;p&gt;20200203 -&amp;gt; 20200206 게시글 작성 시작&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="M1" /><category term="jekyll" /><summary type="html">M1 -&amp;gt; 다시 Jekyll 환경 구축 완료! sonsazang.dothome.co.kr -&amp;gt; 닷홈 도메인 생성 완료! Google Search Console -&amp;gt; 구글 검색 셋팅 필요! M1 Jekyll 환경 구축을 위한 추천 사이트 -&amp;gt; 클릭 Rosetta를 이용해서 설치 intel mac -&amp;gt; silicon mac 오류 많아서 rvm 추천 sonsazang.dothome.co.kr 학교 졸업작품을 위해 안드로이드 DB작업중 php필요 참고 링크 sonsazang.github.io 첫 게시글 작성 20200203 -&amp;gt; 20200206 게시글 작성 시작</summary></entry><entry><title type="html">2021-02-03</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/03/Webpacker;/" rel="alternate" type="text/html" title="2021-02-03" /><published>2021-02-03T00:00:00+09:00</published><updated>2021-02-03T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/03/Webpacker;</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/03/Webpacker;/">&lt;p&gt;Rails - 다양한 오류.. 
+&lt;p&gt;20200203 -&amp;gt; 20200206 게시글 작성 시작&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="M1" /><category term="jekyll" /><summary type="html">M1 -&amp;gt; 다시 Jekyll 환경 구축 완료! sonsazang.dothome.co.kr -&amp;gt; 닷홈 도메인 생성 완료! Google Search Console -&amp;gt; 구글 검색 셋팅 필요! M1 Jekyll 환경 구축을 위한 추천 사이트 -&amp;gt; 클릭 Rosetta를 이용해서 설치 intel mac -&amp;gt; silicon mac 오류 많아서 rvm 추천 sonsazang.dothome.co.kr 학교 졸업작품을 위해 안드로이드 DB작업중 php필요 참고 링크 sonsazang.github.io 첫 게시글 작성 20200203 -&amp;gt; 20200206 게시글 작성 시작</summary></entry><entry><title type="html">2021-02-05</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/05/MacMini/" rel="alternate" type="text/html" title="2021-02-05" /><published>2021-02-05T00:00:00+09:00</published><updated>2021-02-05T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/05/MacMini</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/05/MacMini/">&lt;p&gt;당근마켓 들어가고싶다&lt;br /&gt;
+프로그래머스, 인디드, 링크드인 등 -&amp;gt; 자주 보기 &lt;br /&gt;
+코딩테스트 준비 필요&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;github-개발블로그-다시-시작&quot;&gt;github 개발블로그 다시 시작&lt;/h3&gt;
+
+&lt;p&gt;Lanyon 테마 사용 -&amp;gt; &lt;a href=&quot;https://jennysgap.tistory.com/entry/Github-Pages-02-Codinfox-Lanyon-%ED%85%8C%EB%A7%88-%EC%A0%81%EC%9A%A9&quot;&gt;링크&lt;/a&gt; &lt;br /&gt;
+sonsazang.github.io 완료 - 지금 개발블로그&lt;br /&gt;
+블로그 기본 환경 셋팅 완료&lt;br /&gt;
+open graph 구성 완료&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;macmini-m1-도착&quot;&gt;MacMini M1 도착&lt;/h3&gt;
+
+&lt;p&gt;개발환경 구성 - Rails, node, terminal 등 완료 &lt;br /&gt;
+Jekyll 구성 중 오류 발생 - nodejs 오류 예상&lt;br /&gt;
+초기화 후 빅서 설치 시 오류 발생 &lt;br /&gt;
+인증 가능한 사용자 없음 오류&lt;br /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;웹사이트 아이클라우드 내 계정 로그인&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;MacMini(잠긴 기계) 삭제&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;복구 모드(commend + R, 맥미니 전원버튼 길게 누름) 부팅&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;데이터 지우기, 맥 지우기(포맷)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;빅서 설치 -&amp;gt; 완료&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="github page" /><category term="blog" /><category term="open graph" /><category term="MacMini" /><category term="M1" /><category term="Big Sur ERROR" /><summary type="html">당근마켓 들어가고싶다 프로그래머스, 인디드, 링크드인 등 -&amp;gt; 자주 보기 코딩테스트 준비 필요 github 개발블로그 다시 시작 Lanyon 테마 사용 -&amp;gt; 링크 sonsazang.github.io 완료 - 지금 개발블로그 블로그 기본 환경 셋팅 완료 open graph 구성 완료 MacMini M1 도착 개발환경 구성 - Rails, node, terminal 등 완료 Jekyll 구성 중 오류 발생 - nodejs 오류 예상 초기화 후 빅서 설치 시 오류 발생 인증 가능한 사용자 없음 오류 웹사이트 아이클라우드 내 계정 로그인 MacMini(잠긴 기계) 삭제 복구 모드(commend + R, 맥미니 전원버튼 길게 누름) 부팅 데이터 지우기, 맥 지우기(포맷) 빅서 설치 -&amp;gt; 완료</summary></entry><entry><title type="html">2021-02-04</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/04/Big-Sur/" rel="alternate" type="text/html" title="2021-02-04" /><published>2021-02-04T00:00:00+09:00</published><updated>2021-02-04T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/04/Big%20Sur</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/04/Big-Sur/">&lt;p&gt;MacBook Air 2018 -&amp;gt; OS Big Sur 설치 완료
+terminal 셋팅 완료&lt;/p&gt;
+
+&lt;h3 id=&quot;10분만에-블로그-만들기ruby-on-rails&quot;&gt;10분만에 블로그 만들기(Ruby on Rails)&lt;/h3&gt;
+
+&lt;p&gt;유튜브 영상 참고 -&amp;gt; &lt;a href=&quot;https://youtu.be/JaL9ul17kx0&quot;&gt;링크&lt;/a&gt; &lt;br /&gt;
+Webpacker::Manifest::MissingEntryError in Articles#index 오류 없음&lt;br /&gt;
+기본 루비 버전 셋팅이나 여러가지 문제가 있었던 거 같음&lt;br /&gt;
+comment 연결 중 오류  - 해결&lt;br /&gt;
+ActiveModel::ForbiddenAttributesError in CommentsController#create&lt;br /&gt;
+StackOverFlow 참고 -&amp;gt; &lt;a href=&quot;https://stackoverflow.com/questions/19861067/activemodelforbiddenattributeserror-in-commentscontrollercreate&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;
+comment_controller.rb 파일 4번째 줄 교체&lt;br /&gt;
+ @comment = @post.comments.create!(params.require(:comment).permit!)&lt;br /&gt;
+atom feed 반응없음 -&amp;gt; 중요도 낮은 느낌 무시&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;당근마켓-사장님-말씀&quot;&gt;당근마켓 사장님 말씀&lt;/h3&gt;
+
+&lt;p&gt;개발을 좋아하는 분이라면 본인이 좋아하는 만큼 열심히 노력하시면 언젠가 볼 수 있다.&lt;br /&gt;
+한두번 떨어지는건 상황이 안 맞아서 일수있다.&lt;br /&gt;&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="Big Sur" /><category term="10minuteBlog" /><category term="Rails" /><category term="terminal" /><summary type="html">MacBook Air 2018 -&amp;gt; OS Big Sur 설치 완료 terminal 셋팅 완료 10분만에 블로그 만들기(Ruby on Rails) 유튜브 영상 참고 -&amp;gt; 링크 Webpacker::Manifest::MissingEntryError in Articles#index 오류 없음 기본 루비 버전 셋팅이나 여러가지 문제가 있었던 거 같음 comment 연결 중 오류 - 해결 ActiveModel::ForbiddenAttributesError in CommentsController#create StackOverFlow 참고 -&amp;gt; 링크 comment_controller.rb 파일 4번째 줄 교체 @comment = @post.comments.create!(params.require(:comment).permit!) atom feed 반응없음 -&amp;gt; 중요도 낮은 느낌 무시 당근마켓 사장님 말씀 개발을 좋아하는 분이라면 본인이 좋아하는 만큼 열심히 노력하시면 언젠가 볼 수 있다. 한두번 떨어지는건 상황이 안 맞아서 일수있다.</summary></entry><entry><title type="html">2021-02-03</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/03/Webpacker;/" rel="alternate" type="text/html" title="2021-02-03" /><published>2021-02-03T00:00:00+09:00</published><updated>2021-02-03T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/03/Webpacker;</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/03/Webpacker;/">&lt;p&gt;Rails - 다양한 오류.. 
 github.io 개발블로그 다시 구성 - Lanyon 테마 사용&lt;/p&gt;
 
 &lt;h3 id=&quot;rails-error&quot;&gt;Rails ERROR&lt;/h3&gt;

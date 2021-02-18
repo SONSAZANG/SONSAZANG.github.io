@@ -4,7 +4,7 @@
  <title>SONSAZANG</title>
  <link href="http://SONSAZANG.github.io/atom.xml" rel="self"/>
  <link href="http://SONSAZANG.github.io/"/>
- <updated>2021-02-17T17:33:05+09:00</updated>
+ <updated>2021-02-18T22:37:33+09:00</updated>
  <id>http://SONSAZANG.github.io</id>
  <author>
    <name>Sonsazang</name>
@@ -69,6 +69,67 @@ Google Search Console -&amp;gt; 구글 검색 셋팅 필요!&lt;/p&gt;
 &lt;h3 id=&quot;sonsazanggithubio-첫-게시글-작성&quot;&gt;sonsazang.github.io 첫 게시글 작성&lt;/h3&gt;
 
 &lt;p&gt;20200203 -&amp;gt; 20200206 게시글 작성 시작&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2021-02-05</title>
+   <link href="http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/05/MacMini/"/>
+   <updated>2021-02-05T00:00:00+09:00</updated>
+   <id>http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/05/MacMini</id>
+   <content type="html">&lt;p&gt;당근마켓 들어가고싶다&lt;br /&gt;
+프로그래머스, 인디드, 링크드인 등 -&amp;gt; 자주 보기 &lt;br /&gt;
+코딩테스트 준비 필요&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;github-개발블로그-다시-시작&quot;&gt;github 개발블로그 다시 시작&lt;/h3&gt;
+
+&lt;p&gt;Lanyon 테마 사용 -&amp;gt; &lt;a href=&quot;https://jennysgap.tistory.com/entry/Github-Pages-02-Codinfox-Lanyon-%ED%85%8C%EB%A7%88-%EC%A0%81%EC%9A%A9&quot;&gt;링크&lt;/a&gt; &lt;br /&gt;
+sonsazang.github.io 완료 - 지금 개발블로그&lt;br /&gt;
+블로그 기본 환경 셋팅 완료&lt;br /&gt;
+open graph 구성 완료&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;macmini-m1-도착&quot;&gt;MacMini M1 도착&lt;/h3&gt;
+
+&lt;p&gt;개발환경 구성 - Rails, node, terminal 등 완료 &lt;br /&gt;
+Jekyll 구성 중 오류 발생 - nodejs 오류 예상&lt;br /&gt;
+초기화 후 빅서 설치 시 오류 발생 &lt;br /&gt;
+인증 가능한 사용자 없음 오류&lt;br /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;웹사이트 아이클라우드 내 계정 로그인&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;MacMini(잠긴 기계) 삭제&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;복구 모드(commend + R, 맥미니 전원버튼 길게 누름) 부팅&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;데이터 지우기, 맥 지우기(포맷)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;빅서 설치 -&amp;gt; 완료&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2021-02-04</title>
+   <link href="http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/04/Big-Sur/"/>
+   <updated>2021-02-04T00:00:00+09:00</updated>
+   <id>http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/04/Big Sur</id>
+   <content type="html">&lt;p&gt;MacBook Air 2018 -&amp;gt; OS Big Sur 설치 완료
+terminal 셋팅 완료&lt;/p&gt;
+
+&lt;h3 id=&quot;10분만에-블로그-만들기ruby-on-rails&quot;&gt;10분만에 블로그 만들기(Ruby on Rails)&lt;/h3&gt;
+
+&lt;p&gt;유튜브 영상 참고 -&amp;gt; &lt;a href=&quot;https://youtu.be/JaL9ul17kx0&quot;&gt;링크&lt;/a&gt; &lt;br /&gt;
+Webpacker::Manifest::MissingEntryError in Articles#index 오류 없음&lt;br /&gt;
+기본 루비 버전 셋팅이나 여러가지 문제가 있었던 거 같음&lt;br /&gt;
+comment 연결 중 오류  - 해결&lt;br /&gt;
+ActiveModel::ForbiddenAttributesError in CommentsController#create&lt;br /&gt;
+StackOverFlow 참고 -&amp;gt; &lt;a href=&quot;https://stackoverflow.com/questions/19861067/activemodelforbiddenattributeserror-in-commentscontrollercreate&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;
+comment_controller.rb 파일 4번째 줄 교체&lt;br /&gt;
+ @comment = @post.comments.create!(params.require(:comment).permit!)&lt;br /&gt;
+atom feed 반응없음 -&amp;gt; 중요도 낮은 느낌 무시&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;당근마켓-사장님-말씀&quot;&gt;당근마켓 사장님 말씀&lt;/h3&gt;
+
+&lt;p&gt;개발을 좋아하는 분이라면 본인이 좋아하는 만큼 열심히 노력하시면 언젠가 볼 수 있다.&lt;br /&gt;
+한두번 떨어지는건 상황이 안 맞아서 일수있다.&lt;br /&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
