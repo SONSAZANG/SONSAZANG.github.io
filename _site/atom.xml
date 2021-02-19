@@ -4,13 +4,55 @@
  <title>SONSAZANG</title>
  <link href="http://SONSAZANG.github.io/atom.xml" rel="self"/>
  <link href="http://SONSAZANG.github.io/"/>
- <updated>2021-02-18T23:27:29+09:00</updated>
+ <updated>2021-02-19T20:26:44+09:00</updated>
  <id>http://SONSAZANG.github.io</id>
  <author>
    <name>Sonsazang</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>2021-02-12</title>
+   <link href="http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/12/login2/"/>
+   <updated>2021-02-12T00:00:00+09:00</updated>
+   <id>http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/12/login2</id>
+   <content type="html">&lt;p&gt;moonyou -&amp;gt; 로그인 기능 완료&lt;br /&gt;
+firebase Login &amp;amp; register android 완료&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;moonyou-login-완료&quot;&gt;moonyou login 완료&lt;/h3&gt;
+
+&lt;p&gt;사진 추가 필요!!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2021-02-09</title>
+   <link href="http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/09/Login/"/>
+   <updated>2021-02-09T00:00:00+09:00</updated>
+   <id>http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/09/Login</id>
+   <content type="html">&lt;p&gt;android studio -&amp;gt; db 연동 로그인 회원가입 구현 시작&lt;br /&gt;
+firebase 사용 -&amp;gt; &lt;a href=&quot;https://blog.daum.net/jpal95/32&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2021-02-08</title>
+   <link href="http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/08/firebase/"/>
+   <updated>2021-02-08T00:00:00+09:00</updated>
+   <id>http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/08/firebase</id>
+   <content type="html">&lt;p&gt;project moonyou - android and firebase 연동 성공&lt;/p&gt;
+
+&lt;h3 id=&quot;android---firebase-연동-성공&quot;&gt;android - firebase 연동 성공&lt;/h3&gt;
+
+&lt;p&gt;firebase 연동 -&amp;gt; &lt;a href=&quot;https://lakue.tistory.com/37&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;
+firebase 연동 후 무슨 작업을 진행할지 모르겠다. &lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;github-page&quot;&gt;Github page&lt;/h3&gt;
+&lt;p&gt;google 검색 노출 필요 -&amp;gt; &lt;a href=&quot;https://yammong.github.io/blog/Githubio%EA%B5%AC%EA%B8%80%EA%B2%80%EC%83%89%EB%85%B8%EC%B6%9C%EC%8B%9C%ED%82%A4%EA%B8%B0&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;
+sitemap.xml 생성 필요 -&amp;gt; &lt;a href=&quot;https://www.twinword.co.kr/blog/3-different-ways-to-generate-and-submit-sitemap/&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>2021-02-07</title>
