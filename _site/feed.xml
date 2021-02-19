@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://sonsazang.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://sonsazang.github.io/" rel="alternate" type="text/html" /><updated>2021-02-19T20:26:44+09:00</updated><id>http://sonsazang.github.io/feed.xml</id><title type="html">SONSAZANG</title><subtitle>손사장이 되고 싶은 청년 개발자의 이야기</subtitle><author><name>Sonsazang</name></author><entry><title type="html">2021-02-12</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/12/login2/" rel="alternate" type="text/html" title="2021-02-12" /><published>2021-02-12T00:00:00+09:00</published><updated>2021-02-12T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/12/login2</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/12/login2/">&lt;p&gt;moonyou -&amp;gt; 로그인 기능 완료&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://sonsazang.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://sonsazang.github.io/" rel="alternate" type="text/html" /><updated>2021-02-19T20:41:01+09:00</updated><id>http://sonsazang.github.io/feed.xml</id><title type="html">SONSAZANG</title><subtitle>손사장이 되고 싶은 청년 개발자의 이야기</subtitle><author><name>Sonsazang</name></author><entry><title type="html">2021-02-17</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/17/iOS/" rel="alternate" type="text/html" title="2021-02-17" /><published>2021-02-17T00:00:00+09:00</published><updated>2021-02-17T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/17/iOS</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/17/iOS/">&lt;p&gt;ruby, ruby on rails -&amp;gt; 천천히 공부&lt;br /&gt;
+iOS 공부시작&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ios&quot;&gt;iOS&lt;/h3&gt;
+&lt;p&gt;Udemy 강의 참고 -&amp;gt; &lt;a href=&quot;https://www.udemy.com/course/ios-13-app-development-bootcamp/&quot;&gt;The Complete iOS App Development Bootcamp&lt;/a&gt;&lt;br /&gt;
+Udemy 한글 자막 -&amp;gt; &lt;a href=&quot;https://gustjd887.tistory.com/43&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;:::python
+print “hello!”&lt;/p&gt;
+
+&lt;p&gt;section 1:Getting Started with iOS 13 and Swift 5.1 -&amp;gt; 4강까지 진행&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;영단어-정리&quot;&gt;영단어 정리&lt;/h3&gt;
+&lt;p&gt;frugally - 검소하게, 알뜰하게, 절약하며
+zoom out - 축소하다
+role - 배역, 역할, 임무, 구실&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="iOS" /><category term="Udemy" /><category term="github page" /><summary type="html">ruby, ruby on rails -&amp;gt; 천천히 공부 iOS 공부시작 iOS Udemy 강의 참고 -&amp;gt; The Complete iOS App Development Bootcamp Udemy 한글 자막 -&amp;gt; 링크 :::python print “hello!” section 1:Getting Started with iOS 13 and Swift 5.1 -&amp;gt; 4강까지 진행 영단어 정리 frugally - 검소하게, 알뜰하게, 절약하며 zoom out - 축소하다 role - 배역, 역할, 임무, 구실</summary></entry><entry><title type="html">2021-02-15</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/15/rails_12/" rel="alternate" type="text/html" title="2021-02-15" /><published>2021-02-15T00:00:00+09:00</published><updated>2021-02-15T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/15/rails_12</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/15/rails_12/">&lt;p&gt;레일즈 정복하기!&lt;br /&gt;
+12주 프로젝트 -&amp;gt; &lt;a href=&quot;https://flearning-blog.tistory.com/240&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;rails-12-project&quot;&gt;Rails 12 project&lt;/h3&gt;
+
+&lt;p&gt;1.How to build a Reddit or Hacker News Style Web App in Rails 4 -&amp;gt; 시작&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sublime-text&quot;&gt;sublime text&lt;/h3&gt;
+
+&lt;p&gt;sublime text - terminal 연결 -&amp;gt; &lt;a href=&quot;https://medium.com/@adie0423/%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-sublimetext3-%EC%97%B4%EA%B8%B0-1145f3338b9c&quot;&gt;링크&lt;/a&gt;&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="ruby" /><category term="ruby on rails" /><summary type="html">레일즈 정복하기! 12주 프로젝트 -&amp;gt; 링크 Rails 12 project 1.How to build a Reddit or Hacker News Style Web App in Rails 4 -&amp;gt; 시작 sublime text sublime text - terminal 연결 -&amp;gt; 링크</summary></entry><entry><title type="html">2021-02-12</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/12/login2/" rel="alternate" type="text/html" title="2021-02-12" /><published>2021-02-12T00:00:00+09:00</published><updated>2021-02-12T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/12/login2</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/12/login2/">&lt;p&gt;moonyou -&amp;gt; 로그인 기능 완료&lt;br /&gt;
 firebase Login &amp;amp; register android 완료&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;moonyou-login-완료&quot;&gt;moonyou login 완료&lt;/h3&gt;
@@ -130,29 +154,4 @@ You can also set it to ‘none’ to disable any default behavior. Learn more: h
 &lt;p&gt;ERROR in main 
 Module not found: Error: Can’t resolve ‘./src’ in ‘/Users/son-eunsu/RubymineProjects/blog1’&lt;/p&gt;
 
-&lt;p&gt;실패&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="Webpecker" /><category term="github.io" /><category term="Lanyon" /><category term="Rails" /><category term="error" /><summary type="html">Rails - 다양한 오류.. github.io 개발블로그 다시 구성 - Lanyon 테마 사용 Rails ERROR You could try using –skip-broken to work around the problem -&amp;gt; 해결안됨 Nodejs 삭제 후 다시 시도 -&amp;gt; 성공 참고 링크 nodejs 최신 버전 설치 npm, node 삭제 npm 설치 Webpacker::Manifest::MissingEntryError in Articles#index 오류 error Command “webpack” not found. -&amp;gt; yarn run test (https://classic.yarnpkg.com/en/docs/cli/run) -&amp;gt;command not found: babel @babel/plugin-transform-destructuring’ @babel/plugin-transform-runtime @babel/plugin-transform-regenerator @babel/preset-env’ Bable 플러그인 오류 다수 @rails/webpacker’ from ‘config/webpack/environment.js 오류 -&amp;gt;webpack-cli Error BrowserslistError: 오류 -&amp;gt;webpack 5.20.1 compiled successfully in 64 ms webpack 오류 해결 완료 webpack -w 참고링크 WARNING in configuration -&amp;gt; 해결 The ‘mode’ option has not been set, webpack will fallback to ‘production’ for this value. Set ‘mode’ option to ‘development’ or ‘production’ to enable defaults for each environment. You can also set it to ‘none’ to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/ ERROR in main Module not found: Error: Can’t resolve ‘./src’ in ‘/Users/son-eunsu/RubymineProjects/blog1’ 실패</summary></entry><entry><title type="html">2021-02-02</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/02/CentOS7/" rel="alternate" type="text/html" title="2021-02-02" /><published>2021-02-02T00:00:00+09:00</published><updated>2021-02-02T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/02/CentOS7</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/02/CentOS7/">&lt;p&gt;OracleCloud CentOS7 서버 구성 완료&lt;br /&gt;
-CentOS7 -&amp;gt; Ruby, Ruby on Rails 구성 진행중&lt;br /&gt;
-Rubymine 학생 라이센스 완료&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;centos7&quot;&gt;CentOS7&lt;/h3&gt;
-
-&lt;p&gt;OracleCloud CentOS7 구성 완료&lt;br /&gt; 
-Firewall 방화벽 설정 완료&lt;br /&gt;
-Nignx 웹서버 설치 완료&lt;br /&gt;
-Mysql 설치 완료&lt;br /&gt;
-Postgresql 설치 완료 -&amp;gt; sonsazang&lt;br /&gt;
-nodeJs 설치 완료&lt;br /&gt;
-ImageMagick 설치 완료&lt;br /&gt;
-Git 업그레이드 완료&lt;br /&gt;
-Sendmail 설치 완료&lt;br /&gt;
-Ntp 아시아 서버 시간 동기화 완료&lt;br /&gt;
-Ruby 2.7.2 설치 완료&lt;br /&gt;
-Rails 6.1.1 설치 완료&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;ruby-셋팅&quot;&gt;Ruby 셋팅&lt;/h3&gt;
-
-&lt;p&gt;Ruby 설치 
-CentOS7 -&amp;gt; apt-get 어려움 -&amp;gt; rbenv 이용 -&amp;gt; 완료&lt;br /&gt;
-centOS7 에서 루비,레일즈 설치 -&amp;gt; &lt;a href=&quot;https://jjeongil.tistory.com/1324&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;
-MacBook Air -&amp;gt; Rubymine 설치 완료&lt;br /&gt;
-Rubymine 학생 라이센스 완료 -&amp;gt; &lt;a href=&quot;https://www.jetbrains.com/ko-kr/community/education/&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="CentOS7" /><category term="OracleCloud" /><summary type="html">OracleCloud CentOS7 서버 구성 완료 CentOS7 -&amp;gt; Ruby, Ruby on Rails 구성 진행중 Rubymine 학생 라이센스 완료 CentOS7 OracleCloud CentOS7 구성 완료 Firewall 방화벽 설정 완료 Nignx 웹서버 설치 완료 Mysql 설치 완료 Postgresql 설치 완료 -&amp;gt; sonsazang nodeJs 설치 완료 ImageMagick 설치 완료 Git 업그레이드 완료 Sendmail 설치 완료 Ntp 아시아 서버 시간 동기화 완료 Ruby 2.7.2 설치 완료 Rails 6.1.1 설치 완료 Ruby 셋팅 Ruby 설치 CentOS7 -&amp;gt; apt-get 어려움 -&amp;gt; rbenv 이용 -&amp;gt; 완료 centOS7 에서 루비,레일즈 설치 -&amp;gt; 링크 MacBook Air -&amp;gt; Rubymine 설치 완료 Rubymine 학생 라이센스 완료 -&amp;gt; 링크</summary></entry></feed>
+&lt;p&gt;실패&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="Webpecker" /><category term="github.io" /><category term="Lanyon" /><category term="Rails" /><category term="error" /><summary type="html">Rails - 다양한 오류.. github.io 개발블로그 다시 구성 - Lanyon 테마 사용 Rails ERROR You could try using –skip-broken to work around the problem -&amp;gt; 해결안됨 Nodejs 삭제 후 다시 시도 -&amp;gt; 성공 참고 링크 nodejs 최신 버전 설치 npm, node 삭제 npm 설치 Webpacker::Manifest::MissingEntryError in Articles#index 오류 error Command “webpack” not found. -&amp;gt; yarn run test (https://classic.yarnpkg.com/en/docs/cli/run) -&amp;gt;command not found: babel @babel/plugin-transform-destructuring’ @babel/plugin-transform-runtime @babel/plugin-transform-regenerator @babel/preset-env’ Bable 플러그인 오류 다수 @rails/webpacker’ from ‘config/webpack/environment.js 오류 -&amp;gt;webpack-cli Error BrowserslistError: 오류 -&amp;gt;webpack 5.20.1 compiled successfully in 64 ms webpack 오류 해결 완료 webpack -w 참고링크 WARNING in configuration -&amp;gt; 해결 The ‘mode’ option has not been set, webpack will fallback to ‘production’ for this value. Set ‘mode’ option to ‘development’ or ‘production’ to enable defaults for each environment. You can also set it to ‘none’ to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/ ERROR in main Module not found: Error: Can’t resolve ‘./src’ in ‘/Users/son-eunsu/RubymineProjects/blog1’ 실패</summary></entry></feed>
