@@ -42,7 +42,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://SONSAZANG.github.io/'
+    - 'https://github.com/SONSAZANG/SONSAZANG.github.io'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'

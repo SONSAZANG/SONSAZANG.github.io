@@ -1,19 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://sonsazang.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://sonsazang.github.io/" rel="alternate" type="text/html" /><updated>2021-02-19T20:41:01+09:00</updated><id>http://sonsazang.github.io/feed.xml</id><title type="html">SONSAZANG</title><subtitle>손사장이 되고 싶은 청년 개발자의 이야기</subtitle><author><name>Sonsazang</name></author><entry><title type="html">2021-02-17</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/17/iOS/" rel="alternate" type="text/html" title="2021-02-17" /><published>2021-02-17T00:00:00+09:00</published><updated>2021-02-17T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/17/iOS</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/17/iOS/">&lt;p&gt;ruby, ruby on rails -&amp;gt; 천천히 공부&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://sonsazang.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://sonsazang.github.io/" rel="alternate" type="text/html" /><updated>2021-02-20T12:23:14+09:00</updated><id>http://sonsazang.github.io/feed.xml</id><title type="html">SONSAZANG</title><subtitle>손사장이 되고 싶은 청년 개발자의 이야기</subtitle><author><name>Sonsazang</name></author><entry><title type="html">2021-02-19</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/19/FirstApp/" rel="alternate" type="text/html" title="2021-02-19" /><published>2021-02-19T00:00:00+09:00</published><updated>2021-02-19T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/19/FirstApp</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/19/FirstApp/">&lt;p&gt;udemy - iOS -&amp;gt; 35강 완료&lt;br /&gt;
+sonsazang 앱 빌드 완료&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;첫-앱-빌드-완료---sonsazang&quot;&gt;첫 앱 빌드 완료 - sonsazang&lt;/h1&gt;
+
+&lt;h5 id=&quot;아이콘&quot;&gt;아이콘&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&quot;../public/img/sonsazang_icon.jpeg&quot; alt=&quot;sonsazang_app&quot; /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;화면&quot;&gt;화면&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&quot;../public/img/sonsazang_view.png&quot; alt=&quot;sonsazang_view&quot; width=&quot;40%&quot; height=&quot;40%&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;ios-error&quot;&gt;iOS ERROR&lt;/h1&gt;
+
+&lt;h5 id=&quot;xcode---앱-빌드-후-런치-에러---해결-완료&quot;&gt;Xcode - 앱 빌드 후 런치 에러 - 해결 완료&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ujeon.medium.com/xcode-%EC%95%B1-%EB%B9%8C%EB%93%9C-%ED%9B%84-%EB%9F%B0%EC%B9%98-%EC%97%90%EB%9F%AC-ef2f0ce47ad8&quot;&gt;링크참조&lt;/a&gt;&lt;br /&gt;
+The operation couldn’t be completed. Unable to launch org.reactjs.native.example.pado because it has an invalid code signature, inadequate entitlements or its profile has not been explicitly trusted by the user.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;failed-to-prepare-device-for-developemnt-에러---문제-없음&quot;&gt;failed to prepare device for developemnt 에러 - 문제 없음&lt;/h5&gt;
+
+&lt;p&gt;Xcode, iOS 버전 호환 에러 - 무시&lt;br /&gt;
+&lt;a href=&quot;https://developer.apple.com/forums/thread/133106&quot;&gt;링크참조&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;jekyll-댓글-기능---disqus&quot;&gt;jekyll 댓글 기능 -&amp;gt; disqus&lt;/h1&gt;
+
+&lt;p&gt;구현 필요 - &lt;a href=&quot;https://jamesu.dev/posts/2020/01/03/adding-disqus-comment-service-to-jekyll/&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="iOS" /><category term="iOS_ERROR" /><category term="jekyll" /><summary type="html">udemy - iOS -&amp;gt; 35강 완료 sonsazang 앱 빌드 완료 첫 앱 빌드 완료 - sonsazang 아이콘 화면 iOS ERROR Xcode - 앱 빌드 후 런치 에러 - 해결 완료 링크참조 The operation couldn’t be completed. Unable to launch org.reactjs.native.example.pado because it has an invalid code signature, inadequate entitlements or its profile has not been explicitly trusted by the user. failed to prepare device for developemnt 에러 - 문제 없음 Xcode, iOS 버전 호환 에러 - 무시 링크참조 jekyll 댓글 기능 -&amp;gt; disqus 구현 필요 - 링크</summary></entry><entry><title type="html">2021-02-18</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/18/main/" rel="alternate" type="text/html" title="2021-02-18" /><published>2021-02-18T00:00:00+09:00</published><updated>2021-02-18T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/18/main</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/18/main/">&lt;p&gt;udemy - iOS -&amp;gt; 18강 완료&lt;br /&gt;
+sonsazang.github.io -&amp;gt; 첫 화면 이미지 변경 완료&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;ios&quot;&gt;iOS&lt;/h1&gt;
+&lt;p&gt;section 1 -&amp;gt; 끝!&lt;br /&gt;
+section 2 -&amp;gt; 18강 까지 완료 &lt;br /&gt;
+Xcode -&amp;gt; Storyboards 기본 셋팅 공부 &lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;개발블로그github-page&quot;&gt;개발블로그(github page)&lt;/h1&gt;
+&lt;p&gt;2021-02-05 공부기록 완료&lt;br /&gt;
+2021-02-04 공부기록 완료&lt;br /&gt;
+개발블로그 첫 화면 이미지 변경 -&amp;gt; main.png &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;saw a thought, reap an action;&lt;br /&gt;
+saw an action, reap a habit;&lt;br /&gt;
+saw a habit, reap a character;&lt;br /&gt;
+saw a character, reap a destiny;&lt;br /&gt;
+&lt;br /&gt;
+‘생각을 심으면 행동을 거두고,&lt;br /&gt;
+행동을 심으면 슴관을 거두고,&lt;br /&gt;
+습관을 심으면 인격을 거두고,&lt;br /&gt;
+인격을 심으면 인생을 거둔다.’&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;git&quot;&gt;git&lt;/h3&gt;
+&lt;p&gt;git pull -&amp;gt; github에서 로컬저장소로 가져오기&lt;br /&gt;&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="iOS" /><category term="Udemy" /><category term="github page" /><category term="git pull" /><summary type="html">udemy - iOS -&amp;gt; 18강 완료 sonsazang.github.io -&amp;gt; 첫 화면 이미지 변경 완료 iOS section 1 -&amp;gt; 끝! section 2 -&amp;gt; 18강 까지 완료 Xcode -&amp;gt; Storyboards 기본 셋팅 공부 개발블로그(github page) 2021-02-05 공부기록 완료 2021-02-04 공부기록 완료 개발블로그 첫 화면 이미지 변경 -&amp;gt; main.png saw a thought, reap an action; saw an action, reap a habit; saw a habit, reap a character; saw a character, reap a destiny; ‘생각을 심으면 행동을 거두고, 행동을 심으면 슴관을 거두고, 습관을 심으면 인격을 거두고, 인격을 심으면 인생을 거둔다.’ git git pull -&amp;gt; github에서 로컬저장소로 가져오기</summary></entry><entry><title type="html">2021-02-17</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/17/iOS/" rel="alternate" type="text/html" title="2021-02-17" /><published>2021-02-17T00:00:00+09:00</published><updated>2021-02-17T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/17/iOS</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/17/iOS/">&lt;p&gt;ruby, ruby on rails -&amp;gt; 천천히 공부&lt;br /&gt;
 iOS 공부시작&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;ios&quot;&gt;iOS&lt;/h3&gt;
+&lt;h1 id=&quot;ios&quot;&gt;iOS&lt;/h1&gt;
 &lt;p&gt;Udemy 강의 참고 -&amp;gt; &lt;a href=&quot;https://www.udemy.com/course/ios-13-app-development-bootcamp/&quot;&gt;The Complete iOS App Development Bootcamp&lt;/a&gt;&lt;br /&gt;
-Udemy 한글 자막 -&amp;gt; &lt;a href=&quot;https://gustjd887.tistory.com/43&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;:::python
-print “hello!”&lt;/p&gt;
-
-&lt;p&gt;section 1:Getting Started with iOS 13 and Swift 5.1 -&amp;gt; 4강까지 진행&lt;br /&gt;&lt;/p&gt;
+Udemy 한글 자막 -&amp;gt; &lt;a href=&quot;https://gustjd887.tistory.com/43&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;
+section 1:Getting Started with iOS 13 and Swift 5.1 -&amp;gt; 4강까지 진행&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;영단어-정리&quot;&gt;영단어 정리&lt;/h3&gt;
-&lt;p&gt;frugally - 검소하게, 알뜰하게, 절약하며
-zoom out - 축소하다
-role - 배역, 역할, 임무, 구실&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="iOS" /><category term="Udemy" /><category term="github page" /><summary type="html">ruby, ruby on rails -&amp;gt; 천천히 공부 iOS 공부시작 iOS Udemy 강의 참고 -&amp;gt; The Complete iOS App Development Bootcamp Udemy 한글 자막 -&amp;gt; 링크 :::python print “hello!” section 1:Getting Started with iOS 13 and Swift 5.1 -&amp;gt; 4강까지 진행 영단어 정리 frugally - 검소하게, 알뜰하게, 절약하며 zoom out - 축소하다 role - 배역, 역할, 임무, 구실</summary></entry><entry><title type="html">2021-02-15</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/15/rails_12/" rel="alternate" type="text/html" title="2021-02-15" /><published>2021-02-15T00:00:00+09:00</published><updated>2021-02-15T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/15/rails_12</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/15/rails_12/">&lt;p&gt;레일즈 정복하기!&lt;br /&gt;
+&lt;p&gt;frugally - 검소하게, 알뜰하게, 절약하며&lt;br /&gt;
+zoom out - 축소하다&lt;br /&gt;
+role - 배역, 역할, 임무, 구실&lt;br /&gt;&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="iOS" /><category term="Udemy" /><category term="github page" /><summary type="html">ruby, ruby on rails -&amp;gt; 천천히 공부 iOS 공부시작 iOS Udemy 강의 참고 -&amp;gt; The Complete iOS App Development Bootcamp Udemy 한글 자막 -&amp;gt; 링크 section 1:Getting Started with iOS 13 and Swift 5.1 -&amp;gt; 4강까지 진행 영단어 정리 frugally - 검소하게, 알뜰하게, 절약하며 zoom out - 축소하다 role - 배역, 역할, 임무, 구실</summary></entry><entry><title type="html">2021-02-15</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/15/rails_12/" rel="alternate" type="text/html" title="2021-02-15" /><published>2021-02-15T00:00:00+09:00</published><updated>2021-02-15T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/15/rails_12</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/15/rails_12/">&lt;p&gt;레일즈 정복하기!&lt;br /&gt;
 12주 프로젝트 -&amp;gt; &lt;a href=&quot;https://flearning-blog.tistory.com/240&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;rails-12-project&quot;&gt;Rails 12 project&lt;/h3&gt;
@@ -101,57 +146,4 @@ Jekyll 구성 중 오류 발생 - nodejs 오류 예상&lt;br /&gt;
   &lt;li&gt;복구 모드(commend + R, 맥미니 전원버튼 길게 누름) 부팅&lt;br /&gt;&lt;/li&gt;
   &lt;li&gt;데이터 지우기, 맥 지우기(포맷)&lt;br /&gt;&lt;/li&gt;
   &lt;li&gt;빅서 설치 -&amp;gt; 완료&lt;br /&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="github page" /><category term="blog" /><category term="open graph" /><category term="MacMini" /><category term="M1" /><category term="Big Sur ERROR" /><summary type="html">당근마켓 들어가고싶다 프로그래머스, 인디드, 링크드인 등 -&amp;gt; 자주 보기 코딩테스트 준비 필요 github 개발블로그 다시 시작 Lanyon 테마 사용 -&amp;gt; 링크 sonsazang.github.io 완료 - 지금 개발블로그 블로그 기본 환경 셋팅 완료 open graph 구성 완료 MacMini M1 도착 개발환경 구성 - Rails, node, terminal 등 완료 Jekyll 구성 중 오류 발생 - nodejs 오류 예상 초기화 후 빅서 설치 시 오류 발생 인증 가능한 사용자 없음 오류 웹사이트 아이클라우드 내 계정 로그인 MacMini(잠긴 기계) 삭제 복구 모드(commend + R, 맥미니 전원버튼 길게 누름) 부팅 데이터 지우기, 맥 지우기(포맷) 빅서 설치 -&amp;gt; 완료</summary></entry><entry><title type="html">2021-02-04</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/04/Big-Sur/" rel="alternate" type="text/html" title="2021-02-04" /><published>2021-02-04T00:00:00+09:00</published><updated>2021-02-04T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/04/Big%20Sur</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/04/Big-Sur/">&lt;p&gt;MacBook Air 2018 -&amp;gt; OS Big Sur 설치 완료
-terminal 셋팅 완료&lt;/p&gt;
-
-&lt;h3 id=&quot;10분만에-블로그-만들기ruby-on-rails&quot;&gt;10분만에 블로그 만들기(Ruby on Rails)&lt;/h3&gt;
-
-&lt;p&gt;유튜브 영상 참고 -&amp;gt; &lt;a href=&quot;https://youtu.be/JaL9ul17kx0&quot;&gt;링크&lt;/a&gt; &lt;br /&gt;
-Webpacker::Manifest::MissingEntryError in Articles#index 오류 없음&lt;br /&gt;
-기본 루비 버전 셋팅이나 여러가지 문제가 있었던 거 같음&lt;br /&gt;
-comment 연결 중 오류  - 해결&lt;br /&gt;
-ActiveModel::ForbiddenAttributesError in CommentsController#create&lt;br /&gt;
-StackOverFlow 참고 -&amp;gt; &lt;a href=&quot;https://stackoverflow.com/questions/19861067/activemodelforbiddenattributeserror-in-commentscontrollercreate&quot;&gt;링크&lt;/a&gt;&lt;br /&gt;
-comment_controller.rb 파일 4번째 줄 교체&lt;br /&gt;
- @comment = @post.comments.create!(params.require(:comment).permit!)&lt;br /&gt;
-atom feed 반응없음 -&amp;gt; 중요도 낮은 느낌 무시&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;당근마켓-사장님-말씀&quot;&gt;당근마켓 사장님 말씀&lt;/h3&gt;
-
-&lt;p&gt;개발을 좋아하는 분이라면 본인이 좋아하는 만큼 열심히 노력하시면 언젠가 볼 수 있다.&lt;br /&gt;
-한두번 떨어지는건 상황이 안 맞아서 일수있다.&lt;br /&gt;&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="Big Sur" /><category term="10minuteBlog" /><category term="Rails" /><category term="terminal" /><summary type="html">MacBook Air 2018 -&amp;gt; OS Big Sur 설치 완료 terminal 셋팅 완료 10분만에 블로그 만들기(Ruby on Rails) 유튜브 영상 참고 -&amp;gt; 링크 Webpacker::Manifest::MissingEntryError in Articles#index 오류 없음 기본 루비 버전 셋팅이나 여러가지 문제가 있었던 거 같음 comment 연결 중 오류 - 해결 ActiveModel::ForbiddenAttributesError in CommentsController#create StackOverFlow 참고 -&amp;gt; 링크 comment_controller.rb 파일 4번째 줄 교체 @comment = @post.comments.create!(params.require(:comment).permit!) atom feed 반응없음 -&amp;gt; 중요도 낮은 느낌 무시 당근마켓 사장님 말씀 개발을 좋아하는 분이라면 본인이 좋아하는 만큼 열심히 노력하시면 언젠가 볼 수 있다. 한두번 떨어지는건 상황이 안 맞아서 일수있다.</summary></entry><entry><title type="html">2021-02-03</title><link href="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/03/Webpacker;/" rel="alternate" type="text/html" title="2021-02-03" /><published>2021-02-03T00:00:00+09:00</published><updated>2021-02-03T00:00:00+09:00</updated><id>http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/03/Webpacker;</id><content type="html" xml:base="http://sonsazang.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/03/Webpacker;/">&lt;p&gt;Rails - 다양한 오류.. 
-github.io 개발블로그 다시 구성 - Lanyon 테마 사용&lt;/p&gt;
-
-&lt;h3 id=&quot;rails-error&quot;&gt;Rails ERROR&lt;/h3&gt;
-
-&lt;p&gt;You could try using –skip-broken to work around the problem -&amp;gt; 해결안됨 &lt;br /&gt;
-Nodejs 삭제 후 다시 시도 -&amp;gt; 성공 &lt;br /&gt;
-참고 링크&lt;br /&gt;
-&lt;a href=&quot;https://coding-ggangfe.tistory.com/39&quot;&gt;nodejs 최신 버전 설치&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://blog.daum.net/dosman1/2003&quot;&gt;npm, node 삭제&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://mainia.tistory.com/5637&quot;&gt;npm 설치&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;webpackermanifestmissingentryerror-in-articlesindex-오류&quot;&gt;Webpacker::Manifest::MissingEntryError in Articles#index 오류&lt;br /&gt;&lt;/h4&gt;
-&lt;p&gt;error Command “webpack” not found.&lt;br /&gt;
--&amp;gt; yarn run test (https://classic.yarnpkg.com/en/docs/cli/run) &lt;br /&gt;
--&amp;gt;command not found: babel&lt;br /&gt;
-@babel/plugin-transform-destructuring’ &lt;br /&gt;
-@babel/plugin-transform-runtime&lt;br /&gt;
-@babel/plugin-transform-regenerator&lt;br /&gt;
-@babel/preset-env’&lt;br /&gt;
-Bable 플러그인 오류 다수 &lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;railswebpacker-from-configwebpackenvironmentjs-오류&quot;&gt;@rails/webpacker’ from ‘config/webpack/environment.js 오류&lt;br /&gt;&lt;/h4&gt;
-&lt;p&gt;-&amp;gt;webpack-cli Error BrowserslistError: 오류&lt;br /&gt;
--&amp;gt;webpack 5.20.1 compiled successfully in 64 ms &lt;br /&gt;
-webpack 오류 해결 완료 &lt;br /&gt;
-webpack -w  &lt;a href=&quot;https://www.inflearn.com/questions/17158&quot;&gt;참고링크&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;warning-in-configuration---해결&quot;&gt;WARNING in configuration -&amp;gt; 해결&lt;/h4&gt;
-&lt;p&gt;The ‘mode’ option has not been set, webpack will fallback to ‘production’ for this value. Set ‘mode’ option to ‘development’ or ‘production’ to enable defaults for each environment.
-You can also set it to ‘none’ to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/&lt;/p&gt;
-
-&lt;p&gt;ERROR in main 
-Module not found: Error: Can’t resolve ‘./src’ in ‘/Users/son-eunsu/RubymineProjects/blog1’&lt;/p&gt;
-
-&lt;p&gt;실패&lt;/p&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="Webpecker" /><category term="github.io" /><category term="Lanyon" /><category term="Rails" /><category term="error" /><summary type="html">Rails - 다양한 오류.. github.io 개발블로그 다시 구성 - Lanyon 테마 사용 Rails ERROR You could try using –skip-broken to work around the problem -&amp;gt; 해결안됨 Nodejs 삭제 후 다시 시도 -&amp;gt; 성공 참고 링크 nodejs 최신 버전 설치 npm, node 삭제 npm 설치 Webpacker::Manifest::MissingEntryError in Articles#index 오류 error Command “webpack” not found. -&amp;gt; yarn run test (https://classic.yarnpkg.com/en/docs/cli/run) -&amp;gt;command not found: babel @babel/plugin-transform-destructuring’ @babel/plugin-transform-runtime @babel/plugin-transform-regenerator @babel/preset-env’ Bable 플러그인 오류 다수 @rails/webpacker’ from ‘config/webpack/environment.js 오류 -&amp;gt;webpack-cli Error BrowserslistError: 오류 -&amp;gt;webpack 5.20.1 compiled successfully in 64 ms webpack 오류 해결 완료 webpack -w 참고링크 WARNING in configuration -&amp;gt; 해결 The ‘mode’ option has not been set, webpack will fallback to ‘production’ for this value. Set ‘mode’ option to ‘development’ or ‘production’ to enable defaults for each environment. You can also set it to ‘none’ to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/ ERROR in main Module not found: Error: Can’t resolve ‘./src’ in ‘/Users/son-eunsu/RubymineProjects/blog1’ 실패</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>Sonsazang</name></author><category term="공부 기록" /><category term="github page" /><category term="blog" /><category term="open graph" /><category term="MacMini" /><category term="M1" /><category term="Big Sur ERROR" /><summary type="html">당근마켓 들어가고싶다 프로그래머스, 인디드, 링크드인 등 -&amp;gt; 자주 보기 코딩테스트 준비 필요 github 개발블로그 다시 시작 Lanyon 테마 사용 -&amp;gt; 링크 sonsazang.github.io 완료 - 지금 개발블로그 블로그 기본 환경 셋팅 완료 open graph 구성 완료 MacMini M1 도착 개발환경 구성 - Rails, node, terminal 등 완료 Jekyll 구성 중 오류 발생 - nodejs 오류 예상 초기화 후 빅서 설치 시 오류 발생 인증 가능한 사용자 없음 오류 웹사이트 아이클라우드 내 계정 로그인 MacMini(잠긴 기계) 삭제 복구 모드(commend + R, 맥미니 전원버튼 길게 누름) 부팅 데이터 지우기, 맥 지우기(포맷) 빅서 설치 -&amp;gt; 완료</summary></entry></feed>
