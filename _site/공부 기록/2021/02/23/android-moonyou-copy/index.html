@@ -11,7 +11,7 @@
 
   <title>
     
-      2021-02-12 &middot; SONSAZANG
+      2021-02-23 &middot; SONSAZANG
     
   </title>
 
@@ -212,27 +212,44 @@ MathJax.Hub.Config({ tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ], proces
 
       <div class="container content">
         <div class="post">
-  <h1 class="post-title">2021-02-12</h1>
-  <span class="post-date">12 Feb 2021</span>
+  <h1 class="post-title">2021-02-23</h1>
+  <span class="post-date">23 Feb 2021</span>
   <a href="#disqus_thread"></a>
    | 
   
     <a href="/blog/tags/#android" class="post-tag">Android</a>
   
+    <a href="/blog/tags/#sdk" class="post-tag">SDK</a>
+  
     <a href="/blog/tags/#firebase" class="post-tag">firebase</a>
   
-    <a href="/blog/tags/#login" class="post-tag">login</a>
-  
-    <a href="/blog/tags/#register" class="post-tag">register</a>
+    <a href="/blog/tags/#firestore" class="post-tag">firestore</a>
   
   
   <article>
-    <p>moonyou -&gt; 로그인 기능 완료<br />
-firebase Login &amp; register android 완료<br /></p>
+    <p>Android - SDK location not found 오류 해결
+moonyou - DB연동부분</p>
 
-<h3 id="moonyou-login-완료">moonyou login 완료</h3>
+<h1 id="android---sdk-location-not-found">Android - SDK location not found</h1>
 
-<p>사진 추가 필요!!</p>
+<p>SDK location not found. Define location with an ANDROID_SDK_ROOT environment variable or by setting the sdk.dir path in your project’s local properties file at ‘~/android/local.properties’.<bt>
+원인 -&gt; SDK 위치를 찾을 수 없는 것이 문제의 원인<bt>
+해결 -&gt; local.properties 파일에 경로 추가<bt>
+For windows users<br />
+﹒sdk.dir = sdk.dir=C\:\\Users\\UserName\\AppData\\Local\\Android\\sdk<br />
+For Mac users<br />
+﹒sdk.dir = /Users/USERNAME/Library/Android/sdk<br />
+<br />
+출처: https://eso0609.tistory.com/92 [엄코딩의 개발 일지]</bt></bt></bt></p>
+
+<h1 id="moonyou---db">moonyou - DB</h1>
+
+<p>Firebase = NoSql<br />
+db를 위해서 Firestore 사용 필요<br />
+Firestore 공부 필요<br />
+<a href="https://wooastory.tistory.com/119">링크1</a><br />
+<a href="https://youtube.com/playlist?list=PLG9ohJAOA2PAYBb6rM7pq9Tip9QS2x2_3">링크2</a><br /></p>
+
 
   </article>
 </div>
@@ -277,8 +294,8 @@ firebase Login &amp; register android 완료<br /></p>
   <div id="disqus_thread"></div>
   <script>
 var disqus_config = function () {
-  this.page.url = 'http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/12/login2/'; // Replace PAGE_URL with your page's canonical URL variable
-  this.page.identifier = '/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/12/login2'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  this.page.url = 'http://SONSAZANG.github.io/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/23/android-moonyou-copy/'; // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = '/%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D/2021/02/23/android-moonyou copy'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 (function() {
   var d = document, s = d.createElement('script');
