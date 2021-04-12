@@ -5,8 +5,8 @@ category: 공부 기록
 tag: [Android, SDK, firebase, firestore]
 ---
 
-Android - SDK location not found 오류 해결
-moonyou - DB연동부분
+Android - SDK location not found 오류 해결<br>
+moonyou - DB연동부분<br>
 
 # Android - SDK location not found
 

@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: 2021-03-08
 category: 공부 기록
